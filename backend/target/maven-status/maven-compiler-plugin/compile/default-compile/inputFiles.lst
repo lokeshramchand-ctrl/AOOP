@@ -3,7 +3,6 @@ C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Manag
 C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\model\Employee.java
 C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\service\DepartmentService.java
 C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\exception\ResourceNotFoundException.java
-C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\config\DataInitializer.java
 C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\security\JwtRequestFilter.java
 C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\controller\EmployeeController.java
 C:\Users\lokes\Downloads\Employee-Management-Fullstack-App-master\Employee-Management-Fullstack-App-master\backend\src\main\java\com\example\employeemanagement\security\JwtTokenUtil.java
